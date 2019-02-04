@@ -21,9 +21,9 @@ __Chapters (in french)__
 08. Utilisation de fenêtres et de graphismes (not done)
 09. Manipuler des fichiers
 10. Approfondir les structures de données (not entirely finished yet)
-11. Classes, objets, attributs (not done yet)
-12. Classes, méthodes, héritage (not done yet)
-13. Classes et interfaces graphiques (not done yet)
+11. Classes, objets, attributs (not entirely finished yet)
+12. Classes, méthodes, héritage (not entirely finished yet)
+13. Classes et interfaces graphiques (not entirely finished yet)
 14. Et pour quelques widgets de plus (not done)
 15. Analyses de programmes concrets (not done yet)
 16. Gestion d'une base de données (not done yet)
