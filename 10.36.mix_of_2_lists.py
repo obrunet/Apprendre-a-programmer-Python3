@@ -6,11 +6,12 @@
 
 t1 = [31,28,31,30,31,30,31,31,30,31,30,31]
 t2 = ['Janvier','Février','Mars','Avril','Mai','Juin', 'Juillet','Août','Septembre','Octobre','Novembre','Décembre']
+print("Initial lists t1 & t2:", "\n", t1, "\n", t2, "\n")
 
 i, j = 1, 0
 
-while j<len(t1):
+while j < len(t1):
     t2[i:i] = [t1[j]] # et pourquoi ici t2[i:i+1] recopie toute la liste ? cf ex suivant !
     i, j = i+2, j+1
 
-print(t2)
+print("Final list:", t2)
