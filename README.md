@@ -23,7 +23,7 @@ __Chapters (in french)__
 10. Approfondir les structures de données
 11. Classes, objets, attributs
 12. Classes, méthodes, héritage (not entirely finished yet)
-13. Classes et interfaces graphiques (not entirely finished yet)
+13. Classes et interfaces graphiques (not done)
 14. Et pour quelques widgets de plus (not done)
 15. Analyses de programmes concrets (not done yet)
 16. Gestion d'une base de données (not done yet)
